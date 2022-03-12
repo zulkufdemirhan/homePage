@@ -1,4 +1,7 @@
 # HomePage
-### I wanted to share with you this basic project I wrote to improve my CSS and Javascript skills.
-#### The project mostly includes: *CSS- Flex box & Css Responsive Design and *JS events 
-### If you have any advice, please don't hesitate to contact me.
+### A project with an login panel on its home page.It contains many Css and JavaScript properties.
+
+#### CSS Properties: CSS Responsive Design , CSS Flexible Box Layout , CSS Transitions and Transforms , CSS Pseudo Elements and CSS Position Property
+#### JavaScript Properties : Click & Key events and Html Dom Events
+
+### If you have any advice that might be helpful in my improvement, please feel free to contact me.
